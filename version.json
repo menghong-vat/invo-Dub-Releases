@@ -1,0 +1,15 @@
+{
+  "latest_version": "3.23.4",
+  "mandatory": false,
+  "download_url": "https://github.com/menghong-vat/invo-Dub-Releases/releases/download/v3.23.4/InvoDub_v3.23.4.zip",
+  "sha256": "93a4819780670fb27af5b2b0d98756691f13960bd180bf34d601176c9a62b1fe",
+  "notes": [
+    "Signed update manifests",
+    "Updater re-verifies the package and rolls back a failed update",
+    "Arabic, Russian, German and Romanian translation and captions",
+    "New caption fonts",
+    "Translation rows no longer show prompt labels or copied source text"
+  ],
+  "signed_at": "2026-09-20T11:35:07Z",
+  "sig": "/Hk0L1UBsdiV7nLkZQnT62x4ys7bT0dsH0w4cj0kqwjERVOO+ucgwkWX6j+O/Zh9FwnVg8w8az+xIzaYGgBSBw=="
+}
