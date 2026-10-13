@@ -1,13 +1,15 @@
 {
-  "latest_version": "3.23.7",
+  "latest_version": "3.23.8",
   "mandatory": false,
-  "download_url": "https://github.com/menghong-vat/invo-Dub-Releases/releases/download/v3.23.7/InvoDub_v3.23.7.zip",
-  "sha256": "a73696f8a2f891a7c5ebe0a30663bd5b2f246488fc61e2975b50eee3e13463c4",
+  "download_url": "https://github.com/menghong-vat/invo-Dub-Releases/releases/download/v3.23.8/InvoDub_v3.23.8.zip",
+  "sha256": "26e8413c03ae4efae9a73a9be36812787567bc271bd6d6a08cd1a748ba46910d",
   "notes": [
-    "Fixed AI voice error 403: now uses Microsoft's new voice server",
-    "Generate Audio no longer stops or hangs on unusual lines",
-    "Version 3.23.7"
+    "3-day offline grace: premium keeps working when the Internet drops",
+    "invo Dub now keeps its own settings and license, separate from Dubify AI PRO",
+    "New shortcuts: Ctrl+N/O/S for projects, Insert adds a subtitle, Ctrl+Shift+O opens a video, Ctrl+Shift+E exports SRT",
+    "Many bug fixes",
+    "Version 3.23.8"
   ],
-  "signed_at": "2026-10-13T08:27:15Z",
-  "sig": "YXHDMZCNsmmtJNH/RK2xviLza9iBLq8aefGxBACMZ8q9q2CcI8nxGZRL3Etxs1avS/XSySFxNhitzCioLFsSDw=="
+  "signed_at": "2026-10-13T12:46:03Z",
+  "sig": "y36u52X17iTjUxW69meUc2AZN93qeKHnN/0ses1bHuYQgaCmclBRlVR0rZs4Q1a09RmEhJNc2jeD2Uh8/MLJCQ=="
 }
